@@ -1,4 +1,4 @@
-ansible_collections.arista.eos
+Ansible content collection for Arista EOS
 ==============================
 
 This repository contains an automated Ansible Content Collection build for Arista EOS.
